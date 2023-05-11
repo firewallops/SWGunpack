@@ -7,6 +7,7 @@ usage: SwgUnpack.py [-h] [-o OUTPATH] [-v] backupfile
 Extract SWG configuration from XML backup file.
 
 positional arguments:
+
   backupfile            Backup file from SWG.
 
 options:
