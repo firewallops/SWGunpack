@@ -1,4 +1,4 @@
-#/bin/python
+#!/bin/python
 import xml.etree.ElementTree as ET
 import base64
 import gzip
